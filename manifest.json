@@ -2,12 +2,21 @@
     "manifest_version": 3,
     "name": "Reading time",
     "version": "1.0",
-    "description": "Add the reading time to Chrome Extension documentation articles",
+    "description": "traducteur en langage street",
         "icons": {
           "16": "images/gangsta-16.png",
           "32": "images/gangsta-32.png",
           "48": "images/gangsta-48.png",
           "128": "images/gangsta-128.png"
-        }
+        },
+    "content_scripts": [
+            {
+              "js": ["scripts/content.js"],
+              "matches": [
+                "https://*",
+                "https://*"
+              ]
+            }
+          ]
       }
   
