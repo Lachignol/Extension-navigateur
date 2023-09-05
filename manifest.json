@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Reading time",
+    "name": "Jouvance",
     "version": "1.0",
-    "description": "traducteur en langage street",
+    "description": "Venez boire à ma fontaine",
         "icons": {
           "16": "images/gangsta-16.png",
           "32": "images/gangsta-32.png",
@@ -13,10 +13,19 @@
             {
               "js": ["scripts/content.js"],
               "matches": [
-                "https://*",
-                "https://*"
+                "https://*/*",
+                "http://*/*",
+                "https://*/foo*",
+                "https://*.google.com/foo*bar",
+                "file:///foo*",
+                "http://127.0.0.1/*",
+                "http://localhost/*",
+                "*://mail.google.com/*"
               ]
             }
-          ]
+          ],
+          "permissions": [
+            "storage"
+        ]
       }
   
