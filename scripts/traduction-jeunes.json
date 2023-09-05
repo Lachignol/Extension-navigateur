@@ -1,0 +1,315 @@
+{
+    "fête":
+    {
+      "mot": "AFTER",
+      "definition": "Désigne une fête qui se donne suite à la fête de la nuit et se prolonge le matin"
+    },
+    "influence":
+    {
+      "mot": "AMBIANCER",
+      "definition": "Désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
+    },
+    "fumer":
+    {
+      "mot": "AQUARIUM",
+      "definition": "désigne le fait de fumer de l’herbe dans un endroit hermétique"
+    },
+    "rapidement":
+    {
+      "mot": "ASAP",
+      "definition": "Abréviation de As Soon As Possible, qui signifie aussi vite que possible"
+    },
+    "paraît":
+    {
+      "mot": "ASKIP",
+      "definition": "Abréviation de « à ce qu’il paraît »"
+    },
+    "dégoûté":
+    {
+      "mot": "AVOIR LE SEUM",
+      "definition": "Être dégoûté par un événement, une situation, une chose"
+    },
+    "mauvais":
+    {
+      "mot": "BAD",
+      "definition": "Anglicisme qui désigne quelque chose de mauvais, de difficile"
+    },
+    "pagaille":
+    {
+      "mot": "BAGDAD",
+      "definition": "On dit « c’est Bagdad » pour signifier que c’est la pagaille totale"
+    },
+    "indifférence":
+    {
+      "mot": "BALEK",
+      "definition": "Abréviation de « je m’en bats les couilles… »"
+    },
+    "rire":
+    {
+      "mot": "BARRE",
+      "definition": "Se taper des barres signifie piquer des fous rires"
+    },
+    "joint":
+    {
+      "mot": "BÉDO",
+      "definition": "Mot qui désigne un joint"
+    },
+    
+    "tag":
+    {
+      "mot": "BLAZE",
+      "definition": "Désigne le surnom qu’un tagueur s’est donné pour signer ses œuvres"
+    },
+    "problème":
+    {
+      "mot": "BLÈME",
+      "definition": "Abréviation de problème"
+    },
+    "ringard":
+    {
+      "mot": "BOLOSS",
+      "definition": "Désigne un gars peu intéressant, ringard, faible et trouillard"
+    },
+    "impossible":
+    {
+      "mot": "C’EST DEAD",
+      "definition": "Expression qui signifie « c’est impossible »"
+    },
+    "misère":
+    {
+      "mot": "C’EST LA HASS",
+      "definition": "Expression qui signifie « c’est la misère »"
+    },
+    "moche":
+    {
+      "mot": "CAGEOT",
+      "definition": "Désigne une fille vraiment moche"
+    },
+    "voyante":
+    {
+      "mot": "CAGOLE",
+      "definition": "Se dit d’un stéréotype de fille de Marseille, plutôt voyante et vulgaire"
+    },
+    "drogue":
+    {
+      "mot": "CAME",
+      "definition": "Désigne la drogue et tout ce qui peut être illégal, marchandises volées, etc"
+    },
+    "génial":
+    {
+      "mot": "CHANMÉ",
+      "definition": "Terme qui désigne quelque chose de génial et d’incroyable"
+    },
+    "interjection":
+    {
+      "mot": "CHEH",
+      "definition": "Interjection arabe qui signifie « bien fait pour ta gueule »"
+    },
+    "étrange":
+    {
+      "mot": "CHELOU",
+      "definition": "Désigne une chose, une personne, une situation, très étrange"
+    },
+    "ingrat":
+    {
+      "mot": "CHEUM",
+      "definition": "Verlan de moche, pour désigner une personne ingrate"
+    },
+    "glander":
+    {
+      "mot": "CHILLER",
+      "definition": "Anglicisme qui signifie profiter de la vie, glander, ne rien faire de spécial"
+    },
+    "mouvement":
+    {
+      "mot": "DAB",
+      "definition": "Mouvement spécial de bras né du Hip-Hop"
+    },
+    "manger":
+    {
+      "mot": "DAMER",
+      "definition": "Terme qui signifie manger"
+    },
+    "facile":
+    {
+      "mot": "EASY",
+      "definition": "Anglicisme qui désigne quelque chose de facile"
+    },
+    "mentir":
+    {
+      "mot": "EMBOUCANER",
+      "definition": "Désigne le fait de mentir afin d’embrouiller quelqu’un"
+    },
+    "amuser":
+    {
+      "mot": "ENJAILLER",
+      "definition": "Signifie faire la fête, s’amuser, rire, boire"
+    },
+    "impressionner":
+    {
+      "mot": "ENVOYER LE PÂTÉ",
+      "definition": "Faire quelque chose qui impressionne les autres"
+    },
+    "installé":
+    {
+      "mot": "ÊTRE CALÉ",
+      "definition": "Être bien là où l’on se trouve, être bien installé"
+    },
+    "énervé":
+    {
+      "mot": "ÊTRE YOMB",
+      "definition": "Être énervé"
+    },
+    "alcoolisé":
+    {
+      "mot": "FAYA",
+      "definition": "Se dit lorsque l’on est trop alcoolisé ou drogué"
+    },
+    "insulte":
+    {
+      "mot": "FDP",
+      "definition": "Abréviation qui signifie “fils de pute”"
+    },
+    "défoncé":
+    {
+      "mot": "FONSDÉ",
+      "definition": "Désigne le fait d’être défoncé, après avoir notamment fumé un joint"
+    },
+    "ivre":
+    {
+      "mot": "FRACASSÉ",
+      "definition": "Désigne le fait d’être en état d’ébriété ou sous l’emprise de drogue"
+    },
+    "frère":
+    {
+      "mot": "FRATÉ",
+      "definition": "Terme qui désigne le frère, le super pote"
+    },
+    "jeu":
+    {
+        "mot": "GAME",
+        "definition": "Anglicisme qui signifie « jeu ». Très utilisé dans l’univers des jeux vidéo"
+    },
+    "cannabis":
+    {
+        "mot": "GANJA",
+        "definition": "Terme qui désigne le cannabis"
+    },
+    "internaute":
+    {
+        "mot": "GEEK",
+        "definition": "Jeune qui passe l’essentiel de son temps en ligne sur le Web"
+    },
+    "quartier_malfamé":
+    {
+        "mot": "GHETTO",
+        "definition": "Désigne un quartier ou un espace malfamé, interdit à ceux qui n’en sont pas"
+    },
+    "fille":
+    {
+        "mot": "GO",
+        "definition": "Terme issu du langage africain et qui désigne une fille"
+    },
+    "style_vestimentaire":
+    {
+        "mot": "HIPSTER",
+        "definition": "Personne qui affiche un certain style vestimentaire"
+    },
+    "câlins":
+    {
+        "mot": "HUGS",
+        "definition": "Terme anglophone qui signifie câlins"
+    },
+    "excité":
+    {
+        "mot": "HYPE",
+        "definition": "Avoir la hype signifie être très excité"
+    },
+    "s'ennuyer":
+    {
+        "mot": "IECH",
+        "definition": "Verlan de chier, l’on dit « se faire iech = se faire chier »"
+    },
+    "parler":
+    {
+        "mot": "JACTER",
+        "definition": "Signifie parler sans cesse"
+    },
+    "beauf":
+    {
+        "mot": "JEAN-MI",
+        "definition": "Désigne un beauf, une personne has been"
+    },
+    "cigarette_herbe":
+    {
+        "mot": "JOINT",
+        "definition": "Désigne une cigarette emplie d’herbe"
+    },
+    "baskets":
+    {
+        "mot": "JORDAN",
+        "definition": "Modèle de baskets portés par Mickael Jordan très prisé des jeunes"
+    },
+    "fatigué":
+    {
+        "mot": "JPP",
+        "definition": "Abréviation de « j’en peux plus », jpp de rire, jpp de lui, jpp de mon daron"
+    },
+    "addict":
+    {
+        "mot": "JUNKIE",
+        "definition": "Une personne addict aux drogues"
+    },
+    "racaille":
+    {
+        "mot": "KAIRA",
+        "definition": "Désigne une racaille, un voyou"
+    },
+    "bloqué":
+    {
+        "mot": "KEBLO",
+        "definition": "Verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
+    },
+    "faire_amour":
+    {
+        "mot": "KEN",
+        "definition": "Signifie faire l’amour. Je l’ai « ken », « j’ai ken »"
+    },
+    "policier":
+    {
+        "mot": "KEUF",
+        "definition": "Désigne un représentant de l’ordre"
+    },
+    "mec":
+    {
+        "mot": "KEUM",
+        "definition": "Terme issu de « mec », qui signifie frère, petit ami etc"
+    },
+    "appréciation":
+    {
+        "mot": "KIFF",
+        "definition": "Désigne quelque chose que l’on apprécie"
+    },
+    "brigade":
+    {
+        "mot": "LABAC",
+        "definition": "Abréviation de la bac, brigade anticriminelle"
+    },
+    "famille":
+    {
+        "mot": "LA FAF",
+        "definition": "Désigne la famille, le clan"
+    },
+    "situation_difficile":
+    {
+        "mot": "LA HASS",
+        "definition": "Désigne une situation plutôt désagréable et compliquée"
+    },
+    "nul":
+    {
+        "mot": "LOOSER",
+        "definition": "Personne nulle, à qui rien ne réussit et qui ne réussit rien"
+    }
+}
+      
+  
