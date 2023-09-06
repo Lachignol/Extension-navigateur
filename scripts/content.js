@@ -1,41 +1,40 @@
 
-const text = document.querySelectorAll(
-  "h1,h2,h3,h4,h5,h6,p,li,td,caption,span,a"
-);
 async function getJson()
 {
+    const text = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,td,caption,span,a');
     let url = "http://127.0.0.1:5500/scripts/traduction-jeunes.json"
-    try
-    {
-        let response = await fetch(url);
-        let json = await response.json();
-        console.log(json)
-        for (let i = 0; i < text.length; i++) {
-            if (text[i] in json) {
-              text[i].innerHTML = text[i].innerHTML.replace(`${text[i]}`,`${Json.mots}`);
-            } else if (text[i].innerHTML.includes("Brady")) {
-              text[i].innerHTML = text[i].innerHTML.replace("Brady","6-time Super Bowl champion Tom Brady");
-            }
-          }
-        
-    }
-    
-    catch(erreur)
-    {
-        console.log("Erreur : ", erreur.message);
-    }
-}
+    let fetcher = await fetch(url);
+    let data = await fetcher.json();
+    console.log(text[50])
+    for(let i= 0;i <text.length;i++){
+        for(let y=0;y<Object.keys(data).length;y++){
+            let motRecherche=Object.keys(data)[y];
+            let motRechercheMaj=((Object.keys(data)[y]).charAt(0).toUpperCase())+(Object.keys(data)[y]).slice(1);
+            let motRemplace=data[motRecherche].mot;
+            console.log(motRecherche ,typeof(motRecherche));
+            console.log(motRechercheMaj,typeof(motRechercheMaj));
+            if(text[i].innerHTML.includes(motRecherche)){
+            text[i].innerHTML = text[i].innerHTML.replaceAll(motRecherche,motRemplace)
+            }else if(text[i].innerHTML.includes(motRechercheMaj)){
+                text[i].innerHTML = text[i].innerHTML.replaceAll(motRechercheMaj,motRemplace)
 
+            }
+            }
+        }
+    }
+
+        
 getJson()
 
-/*
-for (let i = 0; i < text.length; i++) {
-  if (text[i] in json) {
-    text[i].innerHTML = text[i].innerHTML.replace(`${text[i]}`,`${Json.mots}`);
-  } else if (text[i].innerHTML.includes("Brady")) {
-    text[i].innerHTML = text[i].innerHTML.replace("Brady","6-time Super Bowl champion Tom Brady");
-  }
-}
+
+
+
+
+//console.log(`${text[i].innerHTML = text[i].innerHTML.replace(text[i],jsonValue[text[i]].mot)}`);
+// //   }else if (text[i].innerHTML.includes("Brady")) {
+// //     text[i].innerHTML = text[i].innerHTML.replace("Brady","6-time Super Bowl champion Tom Brady");
+
+
 
 /*
 function lookupDefinition(word) {
