@@ -9,11 +9,16 @@ async function getJson() {
     for (let y = 0; y < Object.keys(data).length; y++) {
       let motRecherche = Object.keys(data)[y];
       let motRechercheMaj = ((Object.keys(data)[y]).charAt(0).toUpperCase()) + (Object.keys(data)[y]).slice(1);
+      let motRechercheToutMaj = (Object.keys(data)[y]).toUpperCase()
       let motRemplace = data[motRecherche].mot;
+      let motDefinition = data[motRecherche].definition
+      console.log(motDefinition)
       if ((text[i].innerHTML.includes(motRecherche)) && !(text[i].innerHTML.includes('img'))) {
-        text[i].innerHTML = text[i].innerHTML.replaceAll(motRecherche, `<span style="color: red";cursor:help"title"="zouzou">${motRemplace}</span>`);
+        text[i].innerHTML = text[i].innerHTML.replaceAll(motRecherche, `<span style="color: red" title="${motDefinition}">${motRemplace}</span>`);
       } else if ((text[i].innerHTML.includes(motRechercheMaj)) && !(text[i].innerHTML.includes('img'))) {
-        text[i].innerHTML = text[i].innerHTML.replaceAll(motRechercheMaj, `<span style="color: red";cursor:help"title"="zouzou">${motRemplace}</span>`)
+        text[i].innerHTML = text[i].innerHTML.replaceAll(motRechercheMaj, `<span style="color: red" title="${motDefinition}">${motRemplace}</span>`)
+      } else if ((text[i].innerHTML.includes(motRechercheToutMaj)) && !(text[i].innerHTML.includes('img'))) {
+        text[i].innerHTML = text[i].innerHTML.replaceAll(motRechercheToutMaj, `<span style="color: red" title="${motDefinition}">${motRemplace}</span>`)
       }
     }
   }
