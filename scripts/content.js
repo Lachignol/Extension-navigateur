@@ -1,29 +1,30 @@
 
-async function getJson()
-{
-    const text = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,td,caption,span,a');
-    let url = "http://127.0.0.1:5500/scripts/traduction-jeunes.json"
-    let fetcher = await fetch(url);
-    let data = await fetcher.json();
-    console.log(text[50])
-    for(let i= 0;i <text.length;i++){
-        for(let y=0;y<Object.keys(data).length;y++){
-            let motRecherche=Object.keys(data)[y];
-            let motRechercheMaj=((Object.keys(data)[y]).charAt(0).toUpperCase())+(Object.keys(data)[y]).slice(1);
-            let motRemplace=data[motRecherche].mot;
-            console.log(motRecherche ,typeof(motRecherche));
-            console.log(motRechercheMaj,typeof(motRechercheMaj));
-            if(text[i].innerHTML.includes(motRecherche)){
-            text[i].innerHTML = text[i].innerHTML.replaceAll(motRecherche,motRemplace)
-            }else if(text[i].innerHTML.includes(motRechercheMaj)){
-                text[i].innerHTML = text[i].innerHTML.replaceAll(motRechercheMaj,motRemplace)
-
-            }
-            }
-        }
+async function getJson() {
+  let text = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,td,caption');
+  // .h:not(.img),.p:not(.img),.li:not(.img),.td:not(.img),.table:not(.img),.caption:not(.img),.a:not(.img),.span:not(.img)
+  let url = "http://127.0.0.1:5500/scripts/traduction-jeunes.json"
+  let fetcher = await fetch(url);
+  let data = await fetcher.json();
+  for (let i = 0; i < text.length; i++) {
+    for (let y = 0; y < Object.keys(data).length; y++) {
+      let motRecherche = Object.keys(data)[y];
+      let motRechercheMaj = ((Object.keys(data)[y]).charAt(0).toUpperCase()) + (Object.keys(data)[y]).slice(1);
+      let motRemplace = data[motRecherche].mot;
+      if ((text[i].innerHTML.includes(motRecherche)) && !(text[i].innerHTML.includes('img'))) {
+        text[i].innerHTML = text[i].innerHTML.replaceAll(motRecherche, `<span style="color: red";cursor:help"title"="zouzou">${motRemplace}</span>`);
+      } else if ((text[i].innerHTML.includes(motRechercheMaj)) && !(text[i].innerHTML.includes('img'))) {
+        text[i].innerHTML = text[i].innerHTML.replaceAll(motRechercheMaj, `<span style="color: red";cursor:help"title"="zouzou">${motRemplace}</span>`)
+      }
     }
+  }
+}
 
-        
+// let mot = document.getElementById("mot");
+// mot.onmouseover = function(event) {
+
+// }
+
+
 getJson()
 
 
