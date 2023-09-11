@@ -4,7 +4,7 @@ async function getJson() {
       const response = await fetch(url);
       const data = await response.json();
 
-      const elements = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,td,caption');
+      const elements = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,td,caption');
 
       elements.forEach(el => {
           if (!el.querySelector('img')) {
