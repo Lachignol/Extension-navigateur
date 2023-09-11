@@ -2,17 +2,19 @@
     "manifest_version": 3,
     "name": "Jouvence",
     "version": "1.0",
-    "description": "Venez boire à ma fontaine",
-        "icons": {
-          "16": "images/gangsta-16.png",
-          "32": "images/gangsta-32.png",
-          "48": "images/gangsta-48.png",
-          "128": "images/gangsta-128.png"
-        },
+    "description": "Venez boire \u00e0 ma fontaine",
+    "icons": {
+        "16": "images/gangsta-16.png",
+        "32": "images/gangsta-32.png",
+        "48": "images/gangsta-48.png",
+        "128": "images/gangsta-128.png"
+    },
     "content_scripts": [
-            {
-              "js": ["scripts/content.js"],
-              "matches": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
                 "https://*/*",
                 "http://*/*",
                 "https://*/foo*",
@@ -21,11 +23,28 @@
                 "http://127.0.0.1/*",
                 "http://localhost/*",
                 "*://mail.google.com/*"
-              ]
-            }
-          ],
-          "permissions": [
-            "storage"
-        ]
-      }
-  
+            ]
+        }
+    ],
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action":
+    {
+        "default_icon":
+        {
+            "16":"images/gangsta-16.png",
+            "32":"images/gangsta-32.png",
+            "48":"images/gangsta-48.png",
+            "128":"images/gangsta-128.png"
+        }
+    },
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": ["musics/GTA.mp3"],
+            "matches": ["<all_urls>"],
+            "extension_ids": ["*"]
+        }
+    ]
+}
