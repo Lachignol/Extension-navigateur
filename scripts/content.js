@@ -1,5 +1,3 @@
-let originalContent = new Map();
-
 console.log(originalContent)
 
 function resetContent() {
