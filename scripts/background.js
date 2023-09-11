@@ -28,6 +28,8 @@ chrome.action.onClicked.addListener(async (tab) => {
         text: nextState,
     });
 
+    chrome.tabs.sendMessage(tab.id, {action: nextState});
+
     if (nextState === "ON") {
         await chrome.scripting.executeScript({
             target: { tabId: tab.id },
