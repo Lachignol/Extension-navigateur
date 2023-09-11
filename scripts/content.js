@@ -1,3 +1,40 @@
+// let text = document.body
+// console.log(text)
+
+// const parcoursDom = (text, data) => {
+//   for (let node of text.childNodes) {
+//     if (node.hasChildNodes()) {
+//       parcoursDom(node, data)
+//     }
+//     else {
+//       console.log(node.textContent)
+//       for (let y = 0; y < Object.keys(data).length; y++) {
+//         let motRecherche = Object.keys(data)[y];
+//         let motRechercheMaj = ((Object.keys(data)[y]).charAt(0).toUpperCase()) + (Object.keys(data)[y]).slice(1);
+//         let motRechercheToutMaj = (Object.keys(data)[y]).toUpperCase()
+//         let motRemplace = data[motRecherche].mot;
+//         let motDefinition = data[motRecherche].definition
+//         if ((node.textContent.includes(motRecherche))) {
+//           node.innerHTML = node.innerHTML.replaceAll(motRecherche, `<span style="color: red" title="${motDefinition}">${motRemplace}</span>`);
+//         } else if ((node.textContent.includes(motRechercheMaj))) {
+//           node.innerHTML = node.innerHTML.replaceAll(motRechercheMaj, `<span style="color: red" title="${motDefinition}">${motRemplace}</span>`)
+//         } else if ((node.textContent.includes(motRechercheToutMaj))) {
+//           node.innerHTML = node.innerHTML.replaceAll(motRechercheToutMaj, `<span style="color: red" title="${motDefinition}">${motRemplace}</span>`)
+//         }
+//       }
+//     }
+//   }
+// }
+
+
+
+// async function getJson() {
+//   let url = "http://127.0.0.1:5500/scripts/traduction-jeunes.json"
+//   let fetcher = await fetch(url);
+//   let data = await fetcher.json();
+//   parcoursDom(text, data)
+// }
+
 
 async function getJson() {
   let text = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,td,caption');
@@ -24,16 +61,7 @@ async function getJson() {
   }
 }
 
-// let mot = document.getElementById("mot");
-// mot.onmouseover = function(event) {
-
-// }
-
-
 getJson()
-
-
-
 
 
 //console.log(`${text[i].innerHTML = text[i].innerHTML.replace(text[i],jsonValue[text[i]].mot)}`);
