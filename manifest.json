@@ -14,6 +14,10 @@
             "js": [
                 "scripts/content.js"
             ],
+            "css":[
+                "scripts/content.css"
+
+            ],
             "matches": [
                 "https://*/*",
                 "http://*/*",

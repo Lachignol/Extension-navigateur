@@ -33,7 +33,7 @@ async function getJson() {
                     // (?<![="]) = vérifie qu’il n’y a pas de caractère “=” ou “”" avant le début de la clé.
                     // (?!["=]) = vérifie qu’il n’y a pas de caractère “=” ou “”" après la fin de la clé.
                     // (?![^<]*>) = pour s’assurer qu’il n’y a pas de caractère “>” après la clé, ce qui indiquerait la fin d’une balise HTML <a>.
-                    const replacement = `<span style="color: red" title="${data[key].definition}">${data[key].mot}</span>`;
+                    const replacement = `<span class="popup" title="${data[key].definition}">${data[key].mot}</span>`;
                     el.innerHTML = el.innerHTML.replace(regex, replacement);
                 });
             }

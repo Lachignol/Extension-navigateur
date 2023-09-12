@@ -13,7 +13,7 @@ console.log(Dom.children)
                     if(node.hasChildNodes()){
                     console.log("début de boucle------------>")
                      console.table(`nom du node ${node.nodeName}`,`nodes enfants du noden actuel : ${node.childNodes}`,`contenu:${node.textContent}`)
-                     const replacement = `<span style="color: red" title="coucou">fêtes</span>`;
+                     const replacement = `<span class="popup" title="coucou">fêtes</span>`;
                      el.innerText = el.innerTextL.replace("fêtes", replacement);
                 
                      console.log("<---------------fin de boucle")
