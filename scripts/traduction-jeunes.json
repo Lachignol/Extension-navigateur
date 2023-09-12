@@ -9,6 +9,96 @@
       "mot": "AFTER",
       "definition": "Désigne une célébration qui suit une soirée"
     },
+    "honte":
+    {
+      "mot": "HCHOUMA",
+      "definition": "Mettre la 'rchouma' signifie mettre la 'honte'"
+    },
+    "postérieur":
+    {
+      "mot": "BOULE",
+      "definition": "Signifie cul, derrière, postérieur."
+    },
+    "cul":
+    {
+      "mot": "BOULE",
+      "definition": "Signifie cul, derrière, postérieur."
+    },
+    "maigres":
+    {
+      "mot": "GREUMS",
+      "definition": "Signifie maigre, chétif"
+    },
+    "maigre":
+    {
+      "mot": "GREUMS",
+      "definition": "Signifie maigre, chétif"
+    },
+    "hôtel":
+    {
+      "mot": "TÉLO",
+      "definition": "Désigne un hôtel"
+    },
+    "voitures":
+    {
+      "mot": "TCHOP",
+      "definition": "Désigne une voiture / automobile"
+    },
+    "voiture":
+    {
+      "mot": "TCHOP",
+      "definition": "Désigne une voiture / automobile"
+    },
+    "automobiles":
+    {
+      "mot": "TCHOP",
+      "definition": "Désigne une voiture / automobile"
+    },
+    "automobile":
+    {
+      "mot": "TCHOP",
+      "definition": "Désigne une voiture / automobile"
+    },
+    "or":
+    {
+      "mot": "RORO",
+      "definition": "Désigne la matière 'or'"
+    },
+    "parents":
+    {
+      "mot": "RAMPS",
+      "definition": "Désigne les parents"
+    },
+    "arnaquer":
+    {
+      "mot": "CAROTTER",
+      "definition": "Carotter signifie arnaquer"
+    },
+    "arnaqué":
+    {
+      "mot": "CAROTTÉR",
+      "definition": "Carotter signifie arnaquer"
+    },
+    "contentes":
+    {
+      "mot": "SAUCÉES",
+      "definition": "Etre 'saucé' signifie être 'content'"
+    },
+    "contents":
+    {
+      "mot": "SAUCÉS",
+      "definition": "Etre 'saucé' signifie être 'content'"
+    },
+    "contente":
+    {
+      "mot": "SAUCÉE",
+      "definition": "Etre 'saucé' signifie être 'content'"
+    },
+    "content":
+    {
+      "mot": "SAUCÉ",
+      "definition": "Etre 'saucé' signifie être 'content'"
+    },
     "en vitesse":
     {
       "mot": "EN 2-SPI",
@@ -398,6 +488,11 @@
     {
       "mot": "OKLM",
       "definition": "Abréviation et diminutif de « au calme », s’utilise aussi pour dire « tranquille »"
+    },
+    "mourir":
+    {
+      "mot": "CLAMSER",
+      "definition": "Clamser signifie mourir"
     },
     "tranquilles":
     {
