@@ -1,10 +1,10 @@
-console.log(originalContent)
+// console.log(originalContent)
 
-function resetContent() {
-  originalContent.forEach((originalHTML, element) => {
-      element.innerHTML = originalHTML;
-  });
-}
+// function resetContent() {
+//   originalContent.forEach((originalHTML, element) => {
+//       element.innerHTML = originalHTML;
+//   });
+// }
 
 
 async function getJson() {
@@ -18,7 +18,7 @@ async function getJson() {
       elements.forEach(el => {
           if (!el.querySelector('img')) {
               Object.keys(data).forEach(key => {
-                const regex = new RegExp(`\\b${key}\\b`, "ig");
+                const regex = new RegExp(`(?<![="])\\b${key}\\b(?!["=])(?![^<]*>)`, "ig");
                 const replacement = `<span style="color: red" title="${data[key].definition}">${data[key].mot}</span>`;
                 el.innerHTML = el.innerHTML.replace(regex, replacement);
               });
@@ -29,12 +29,14 @@ async function getJson() {
   }
 }
 
-// Écouteur pour les messages provenant du background.js
-chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-    if (message.action === "ON") {
-        getJson();  // Lance la fonction de traduction quand l'extension est sur ON
-    }
-    if (message.action === "OFF") {
-        resetContent();
-    }
-});
+// getJson()
+
+// // Écouteur pour les messages provenant du background.js
+// chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+//     if (message.action === "ON") {
+//         getJson();  // Lance la fonction de traduction quand l'extension est sur ON
+//     }
+//     if (message.action === "OFF") {
+//         resetContent();
+//     }
+// });

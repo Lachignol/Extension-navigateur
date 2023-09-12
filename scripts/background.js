@@ -13,6 +13,46 @@ function stopAudioCode() {
     }
 }
 
+function recordBody(){
+    const body = document.body;
+    return body
+}
+
+function sendBody(recordBody){
+   return document.body = document
+   
+}
+
+
+async function getJson() {
+    try {
+        const url = "http://127.0.0.1:5500/scripts/traduction-jeunes.json";
+        const response = await fetch(url);
+        const data = await response.json();
+  
+        const elements = document.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,td,caption');
+        
+        elements.forEach(el => {
+            if (!el.querySelector('img')) {
+                Object.keys(data).forEach(key => {
+                  const regex = new RegExp(`(?<![="])\\b${key}\\b(?!["=])(?![^<]*>)`, "ig");
+                  const replacement = `<span style="color: red" title="${data[key].definition}">${data[key].mot}</span>`;
+                  el.innerHTML = el.innerHTML.replace(regex, replacement);
+                });
+            }
+        });
+    } catch (err) {
+        console.error("Error fetching or processing data:", err);
+    }
+  }
+  
+
+
+
+
+
+
+
 chrome.runtime.onInstalled.addListener(() => {
     chrome.action.setBadgeText({
         text: "OFF",
@@ -33,12 +73,32 @@ chrome.action.onClicked.addListener(async (tab) => {
     if (nextState === "ON") {
         await chrome.scripting.executeScript({
             target: { tabId: tab.id },
-            function: playAudioCode
+            function:playAudioCode,
+        })
+
+        await chrome.scripting.executeScript({
+            target: { tabId: tab.id },
+            function: recordBody
+            
+    
+        });
+
+        await chrome.scripting.executeScript({
+            target: { tabId: tab.id },
+            function: await getJson
+            
+                
+            
+
         });
     } else if (nextState === "OFF") {
         await chrome.scripting.executeScript({
             target: { tabId: tab.id },
             function: stopAudioCode
-        });
-    }
-});
+
+        })
+        await chrome.scripting.executeScript({
+            target: { tabId: tab.id },
+            function: window.location.href
+    })
+    }})

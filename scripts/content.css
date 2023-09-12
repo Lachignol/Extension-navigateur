@@ -1,0 +1,14 @@
+span.popup{
+    color:red;
+    
+    }
+
+.art-color span.popup{
+color:yellow;
+
+}
+
+span.popup:hover {
+color:green;
+}
+
