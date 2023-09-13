@@ -1,26 +1,53 @@
-span.popup{
-    color:green;
-    
-    }
+@font-face {
+    font-family: "Most Wazted";
+    font-weight: normal;
+    font-style: normal;
+    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.eot") format("eot"),
+        url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.woff") format("woff"),
+        url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.ttf") format("truetype"),
+        url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.svg") format("svg");
+}
 
 
+@font-face {
+    font-family: "aaaiight-fat";
+    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/aaaiight-fat.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
 
-span.popup:hover{
-color:yellow;
+@font-face {
+    font-family: "amsterdam";
+    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/amsterdam.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+span.popup {
+    color: red;
+    font-family: "amsterdam";
+    font-size: 1.8em;
+}
+
+span.popup:hover {
+    color: blue;
 }
 
 [data-title]:hover:after {
+    font-family: Arial, Helvetica, sans-serif;
     opacity: 1;
     transition: all 0.1s ease 0.5s;
     visibility: visible;
-  }
-  [data-title]:after {
+}
+
+[data-title]:after {
+    font-family: Arial, Helvetica, sans-serif;
     content: attr(data-title);
     position: absolute;
     bottom: -1.6em;
     left: 100%;
     padding: 4px 4px 4px 8px;
-    color: red;
+    color: black;
     white-space: nowrap;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -36,6 +63,9 @@ color:yellow;
     opacity: 0;
     z-index: 99999;
     visibility: hidden;
-  }
-  [data-title] {
-    position: relative;}
+}
+
+[data-title] {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
