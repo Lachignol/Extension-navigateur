@@ -16,6 +16,7 @@
     font-style: normal;
 }
 
+/* remplacer par bomber dreams */
 @font-face {
     font-family: "Graffogie";
     src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Graffogie.ttf") format("truetype");
@@ -23,8 +24,10 @@
     font-style: normal;
 }
 
-h1,h2,h4,h5,h6 {
-font-family: "Streetbomber";
+/* remplacer par bomber dreams */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Streetbomber" !important;
+    font-size: 1.8em !important;
 }
 
 span.popup {
