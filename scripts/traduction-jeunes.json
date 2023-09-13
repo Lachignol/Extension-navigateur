@@ -1,362 +1,362 @@
 {
     "fêtes":
     {
-      "mot": "AFTER",
+      "mot": "after",
       "definition": "Désigne une célébration qui suit une soirée"
     },
     "fête":
     {
-      "mot": "AFTER",
+      "mot": "after",
       "definition": "Désigne une célébration qui suit une soirée"
     },
     "honte":
     {
-      "mot": "HCHOUMA",
+      "mot": "hchouma",
       "definition": "Mettre la 'rchouma' signifie mettre la 'honte'"
     },
     "postérieur":
     {
-      "mot": "BOULE",
+      "mot": "boule",
       "definition": "Signifie cul, derrière, postérieur."
     },
     "cul":
     {
-      "mot": "BOULE",
+      "mot": "boule",
       "definition": "Signifie cul, derrière, postérieur."
     },
     "maigres":
     {
-      "mot": "GREUMS",
+      "mot": "greums",
       "definition": "Signifie maigre, chétif"
     },
     "maigre":
     {
-      "mot": "GREUMS",
+      "mot": "greums",
       "definition": "Signifie maigre, chétif"
     },
     "hôtel":
     {
-      "mot": "TÉLO",
+      "mot": "télo",
       "definition": "Désigne un hôtel"
     },
     "voitures":
     {
-      "mot": "TCHOP",
+      "mot": "tchop",
       "definition": "Désigne une voiture / automobile"
     },
     "voiture":
     {
-      "mot": "TCHOP",
+      "mot": "tchop",
       "definition": "Désigne une voiture / automobile"
     },
     "automobiles":
     {
-      "mot": "TCHOP",
+      "mot": "tchop",
       "definition": "Désigne une voiture / automobile"
     },
     "automobile":
     {
-      "mot": "TCHOP",
+      "mot": "tchop",
       "definition": "Désigne une voiture / automobile"
     },
     "or":
     {
-      "mot": "RORO",
+      "mot": "roro",
       "definition": "Désigne la matière 'or'"
     },
     "parents":
     {
-      "mot": "RAMPS",
+      "mot": "ramps",
       "definition": "Désigne les parents"
     },
     "arnaquer":
     {
-      "mot": "CAROTTER",
+      "mot": "carotter",
       "definition": "Carotter signifie arnaquer"
     },
     "arnaqué":
     {
-      "mot": "CAROTTÉR",
+      "mot": "carotté",
       "definition": "Carotter signifie arnaquer"
     },
     "contentes":
     {
-      "mot": "SAUCÉES",
+      "mot": "saucées",
       "definition": "Etre 'saucé' signifie être 'content'"
     },
     "contents":
     {
-      "mot": "SAUCÉS",
+      "mot": "saucés",
       "definition": "Etre 'saucé' signifie être 'content'"
     },
     "contente":
     {
-      "mot": "SAUCÉE",
+      "mot": "saucée",
       "definition": "Etre 'saucé' signifie être 'content'"
     },
     "content":
     {
-      "mot": "SAUCÉ",
+      "mot": "saucé",
       "definition": "Etre 'saucé' signifie être 'content'"
     },
     "en vitesse":
     {
-      "mot": "EN 2-SPI",
+      "mot": "en 2-spi",
       "definition": "Verlan du mot speed, une action qui se fait très rapidement."
     },
     "fausse":
     {
-      "mot": "FAKE",
+      "mot": "fake",
       "definition": "Signifie faux"
     },
     "faux":
     {
-      "mot": "FAKE",
+      "mot": "fake",
       "definition": "Signifie faux"
     },
     "dingues":
     {
-      "mot": "GUEDIN",
+      "mot": "guedin",
       "definition": "Verlan de dingue"
     },
     "dingue":
     {
-      "mot": "GUEDIN",
+      "mot": "guedin",
       "definition": "Verlan de dingue"
     },
     "mignons":
     {
-      "mot": "KAWAI",
+      "mot": "kawai",
       "definition": "Signifie mignon. Si le sens usuel se rapporte à tout ce qui est mignon, peut aussi être utilisé pour le type de tenues que peuvent porter les fans de mangas/animes, ressemblant aux tenues des héroïnes de ces supports (qu’on appelle le cosplay)"
     },
     "mignon":
     {
-      "mot": "KAWAI",
+      "mot": "kawai",
       "definition": "Signifie mignon. Si le sens usuel se rapporte à tout ce qui est mignon, peut aussi être utilisé pour le type de tenues que peuvent porter les fans de mangas/animes, ressemblant aux tenues des héroïnes de ces supports (qu’on appelle le cosplay)"
     },
     "chiens":
     {
-      "mot": "IENCH",
+      "mot": "iench",
       "definition": "Verlan de chien"
     },
     "chien":
     {
-      "mot": "IENCH",
+      "mot": "iench",
       "definition": "Verlan de chien"
     },
     "négocier":
     {
-      "mot": "MOYENNER",
+      "mot": "moyenner",
       "definition": "Prenez le mot “moyen” et faites-en un verbe, vous obtenez “moyenner”, soit “négocier”. 'Il y a moyen de moyenner'."
     },
     "drôle":
     {
-      "mot": "GOLRI",
+      "mot": "golri",
       "definition": "Du verlan rigolé, signifie drôle."
     },
     "se sont fait voler":
     {
-      "mot": "SE SONT FAIT PETA",
+      "mot": "se sont fait péta",
       "definition": "Péta signifie “voler”, “dérober”. “Elle m’a péta ma veste”, par exemple."
     },
     "tu t'es fait voler":
     {
-      "mot": "TU T'ES FAIT PETA",
+      "mot": "tu t'es fait péta",
       "definition": "Péta signifie “voler”, “dérober”. “Elle m’a péta ma veste”, par exemple."
     },
     "je me suis fait voler":
     {
-      "mot": "JE ME SUIS FAIT PETA",
+      "mot": "je me suis fait péta",
       "definition": "Péta signifie “voler”, “dérober”. “Elle m’a péta ma veste”, par exemple."
     },
     "se faire jeter":
     {
-      "mot": "SE FAIRE TEJ",
+      "mot": "se faire tèj",
       "definition": "Provenant du verlan “jeté”, tej désigne quelque chose que l’on a choisi de sortir de notre vie."
     },
     "s'est fait jeter":
     {
-      "mot": "S'EST FAIT TEJ",
+      "mot": "s'est fait tèj",
       "definition": "Provenant du verlan “jeté”, tej désigne quelque chose que l’on a choisi de sortir de notre vie."
     },
     "me suis fait jeter":
     {
-      "mot": "ME SUIS FAIT TEJ",
+      "mot": "me suis fait tèj",
       "definition": "Provenant du verlan “jeté”, tej désigne quelque chose que l’on a choisi de sortir de notre vie."
     },
     "t'es fait jeter":
     {
-      "mot": "T'ES FAIT TEJ",
+      "mot": "t'es fait tèj",
       "definition": "Provenant du verlan “jeté”, tej désigne quelque chose que l’on a choisi de sortir de notre vie."
     },
     "travaillé":
     {
-      "mot": "CHARBONNÉ",
+      "mot": "charbonné",
       "definition": "Au sens figuré, le verbe 'charbonner' signifie travailler."
     },
     "travaillent":
     {
-      "mot": "CHARBONNENT",
+      "mot": "charbonnent",
       "definition": "Au sens figuré, le verbe 'charbonner' signifie travailler."
     },
     "travailles":
     {
-      "mot": "CHARBONNES",
+      "mot": "charbonnes",
       "definition": "Au sens figuré, le verbe 'charbonner' signifie travailler."
     },
     "travaille":
     {
-      "mot": "CHARBONNE",
+      "mot": "charbonne",
       "definition": "Au sens figuré, le verbe 'charbonner' signifie travailler."
     },
     "arrêtées":
     {
-      "mot": "ALPAGUÉES",
+      "mot": "alpaguées",
       "definition": "Signifie se faire arrêter. Du nom 'alpague' qui désigne un paletot, une veste ou un manteau en laine d’Alpaga. Une arrestation impliquant souvent qu’on saisisse le col du manteau."
     },
     "arrêtés":
     {
-      "mot": "ALPAGUÉS",
+      "mot": "alpagués",
       "definition": "Signifie se faire arrêter. Du nom 'alpague' qui désigne un paletot, une veste ou un manteau en laine d’Alpaga. Une arrestation impliquant souvent qu’on saisisse le col du manteau."
     },
     "arrêtée":
     {
-      "mot": "ALPAGUÉE",
+      "mot": "alpaguée",
       "definition": "Signifie se faire arrêter. Du nom 'alpague' qui désigne un paletot, une veste ou un manteau en laine d’Alpaga. Une arrestation impliquant souvent qu’on saisisse le col du manteau."
     },
     "arrêté":
     {
-      "mot": "ALPAGUÉ",
+      "mot": "alpagué",
       "definition": "Signifie se faire arrêter. Du nom 'alpague' qui désigne un paletot, une veste ou un manteau en laine d’Alpaga. Une arrestation impliquant souvent qu’on saisisse le col du manteau."
     },
     "femmes":
     {
-      "mot": "MEUFS",
+      "mot": "meufs",
       "definition": "Verlan de femme"
     },
     "femme":
     {
-      "mot": "MEUF",
+      "mot": "meuf",
       "definition": "Verlan de femme"
     },
     "fous":
     {
-      "mot": "OUF",
+      "mot": "ouf",
       "definition": "Verlan de fou"
     },
     "fou":
     {
-      "mot": "OUF",
+      "mot": "ouf",
       "definition": "Verlan de fou"
     },
     "folles":
     {
-      "mot": "OUF",
+      "mot": "ouf",
       "definition": "Verlan de fou"
     },
     "folle":
     {
-      "mot": "OUF",
+      "mot": "ouf",
       "definition": "Verlan de fou"
     },
     "il se peut que":
     {
-      "mot": "Y A MOYEN",
+      "mot": "y a moyen",
       "definition": "Signifie 'il se peut que'"
     },
     "boire":
     {
-      "mot": "TISER",
+      "mot": "tiser",
       "definition": "Signifie boire"
     },
     "bois":
     {
-      "mot": "TISES",
+      "mot": "tises",
       "definition": "Signifie boire"
     },
     "boit":
     {
-      "mot": "TISE",
+      "mot": "tise",
       "definition": "Signifie boire"
     },
     "bu":
     {
-      "mot": "TISÉ",
+      "mot": "tisé",
       "definition": "Signifie boire"
     },
     "menteuses":
     {
-      "mot": "MYTHOS",
+      "mot": "mythos",
       "definition": "Dérivé du mot mythomanie, mytho se traduit par mensonge ou désigne un menteur, une menteuse"
     },
     "menteurs":
     {
-      "mot": "MYTHOS",
+      "mot": "mythos",
       "definition": "Dérivé du mot mythomanie, mytho se traduit par mensonge ou désigne un menteur, une menteuse"
     },
     "menteuse":
     {
-      "mot": "MYTHO",
+      "mot": "mytho",
       "definition": "Dérivé du mot mythomanie, mytho se traduit par mensonge ou désigne un menteur, une menteuse"
     },
     "menteur":
     {
-      "mot": "MYTHO",
+      "mot": "mytho",
       "definition": "Dérivé du mot mythomanie, mytho se traduit par mensonge ou désigne un menteur, une menteuse"
     },
     "mensonges":
     {
-      "mot": "MYTHOS",
+      "mot": "mythos",
       "definition": "Dérivé du mot mythomanie, mytho se traduit par mensonge ou désigne un menteur, une menteuse"
     },
     "mensonge":
     {
-      "mot": "MYTHO",
+      "mot": "mytho",
       "definition": "Dérivé du mot mythomanie, mytho se traduit par mensonge ou désigne un menteur, une menteuse"
     },
     "à fond":
     {
-      "mot": "A DONF",
+      "mot": "à donf",
       "definition": "Verlan de « à fond »"
     },
     "stylées":
     {
-      "mot": "FRAICHES",
+      "mot": "fraîches",
       "definition": "Signifie quelque chose de cool, de bien, de stylé"
     },
     "stylés":
     {
-      "mot": "FRAIS",
+      "mot": "frais",
       "definition": "Signifie quelque chose de cool, de bien, de stylé"
     },
     "stylée":
     {
-      "mot": "FRAICHE",
+      "mot": "fraîche",
       "definition": "Signifie quelque chose de cool, de bien, de stylé"
     },
     "stylé":
     {
-      "mot": "FRAIS",
+      "mot": "frais",
       "definition": "Signifie quelque chose de cool, de bien, de stylé"
     },
     "cas social":
     {
-      "mot": "CASSOS",
+      "mot": "cassos",
       "definition": "Littéralement cas social."
     },
     "trop":
     {
-      "mot": "GAVÉ",
+      "mot": "gavé",
       "definition": "Signifie beaucoup, très"
     },
     "très":
     {
-      "mot": "GAVÉ",
+      "mot": "gavé",
       "definition": "Signifie beaucoup, très"
     },
     "pauvre":
     {
-      "mot": "MISKINE",
+      "mot": "miskine",
       "definition": "Signifie le ou la pauvre"
     },
     "au bout du rouleau":
@@ -366,122 +366,122 @@
     },
     "dure à cuire":
     {
-      "mot": "BADASS",
+      "mot": "badass",
       "definition": "Désigne un 'dur à cuire'"
     },
     "dur à cuire":
     {
-      "mot": "BADASS",
+      "mot": "badass",
       "definition": "Désigne un 'dur à cuire'"
     },
     "déprimer":
     {
-      "mot": "BADER",
+      "mot": "bader",
       "definition": "Anglicisme pour « déprimer », à partir du mot anglais « bad »"
     },
     "déprime":
     {
-      "mot": "BADE",
+      "mot": "bade",
       "definition": "Anglicisme pour « déprimer », à partir du mot anglais « bad »"
     },
     "c'est bon":
     {
-      "mot": "C'EST CARRÉ",
+      "mot": "c'est carré",
       "definition": "S’emploie comme « c’est bon »"
     },
     "merci":
     {
-      "mot": "CIMER",
+      "mot": "cimer",
       "definition": "Verlan de « merci »"
     },
     "formidable":
     {
-      "mot": "CHANMÉ",
+      "mot": "chanmé",
       "definition": "Verlan de « méchant » pour dire génial, formidable"
     },
     "génial":
     {
-      "mot": "CHANMÉ",
+      "mot": "chanmé",
       "definition": "Verlan de « méchant » pour dire génial, formidable"
     },
     "papa":
     {
-      "mot": "DARON",
+      "mot": "daron",
       "definition": "Mot du XVIIe siècle pour « papa »"
     },
     "pères":
     {
-      "mot": "DARONS",
+      "mot": "darons",
       "definition": "Mot du XVIIe siècle pour « papa »"
     },
     "père":
     {
-      "mot": "DARON",
+      "mot": "daron",
       "definition": "Mot du XVIIe siècle pour « papa »"
     },
     "maman":
     {
-      "mot": "DARONNE",
+      "mot": "daronne",
       "definition": "Mot du XVIIe siècle pour « maman »"
     },
     "mères":
     {
-      "mot": "DARONNES",
+      "mot": "daronnes",
       "definition": "Mot du XVIIe siècle pour « maman »"
     },
     "mère":
     {
-      "mot": "DARONNE",
+      "mot": "daronne",
       "definition": "Mot du XVIIe siècle pour « maman »"
     },
     "déterminées":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "déterminée":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "déterminés":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "déterminé":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "motivées":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "motivés":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "motivée":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "motivé":
     {
-      "mot": "DÉTER",
+      "mot": "déter",
       "definition": "Réduction du mot « déterminé »"
     },
     "une gaffe":
     {
-      "mot": "UN FAIL",
+      "mot": "un fail",
       "definition": "Emprunté à l’anglais qui signifie « une gaffe », « un raté »"
     },
     "monnaie":
     {
-      "mot": "MOULA",
+      "mot": "moula",
       "definition": "Mot d’argot pour caractériser « la monnaie »"
     },
     "au calme":
@@ -491,7 +491,7 @@
     },
     "mourir":
     {
-      "mot": "CLAMSER",
+      "mot": "clamser",
       "definition": "Clamser signifie mourir"
     },
     "tranquilles":
@@ -516,794 +516,651 @@
     },
     "bourrées":
     {
-      "mot": "RÉBOU",
+      "mot": "rébou",
       "definition": "Verlan de « bourré »"
     },
     "bourrés":
     {
-      "mot": "RÉBOU",
+      "mot": "rébou",
       "definition": "Verlan de « bourré »"
     },
     "bourrée":
     {
-      "mot": "RÉBOU",
+      "mot": "rébou",
       "definition": "Verlan de « bourré »"
     },
     "bourré":
     {
-      "mot": "RÉBOU",
+      "mot": "rébou",
       "definition": "Verlan de « bourré »"
     },
     "lourds":
     {
-      "mot": "RELOU",
+      "mot": "relou",
       "definition": "Verlan de « lourd »"
     },
     "lourd":
     {
-      "mot": "RELOU",
+      "mot": "relou",
       "definition": "Verlan de « lourd »"
     },
     "soeurs":
     {
-      "mot": "REUF",
+      "mot": "reuf",
       "definition": "Verlan de « frère », s’utilise aussi pour « sœur » : Ma reuf, mon reuf."
     },
     "soeur":
     {
-      "mot": "REUF",
+      "mot": "reuf",
       "definition": "Verlan de « frère », s’utilise aussi pour « sœur » : Ma reuf, mon reuf."
     },
     "frères":
     {
-      "mot": "REUF",
+      "mot": "reuf",
       "definition": "Verlan de « frère », s’utilise aussi pour « sœur » : Ma reuf, mon reuf."
     },
     "frère":
     {
-      "mot": "REUF",
+      "mot": "reuf",
       "definition": "Verlan de « frère », s’utilise aussi pour « sœur » : Ma reuf, mon reuf."
     },
     "bêtes":
     {
-      "mot": "TEUBÉ",
+      "mot": "teubé",
       "definition": "Verlan de « bête »"
     },
     "bête":
     {
-      "mot": "TEUBÉ",
+      "mot": "teubé",
       "definition": "Verlan de « bête »"
     },
     "pitié":
     {
-      "mot": "TIEP",
+      "mot": "tiep",
       "definition": "Verlan de « pitié ». Il fait tiep."
     },
     "parti":
     {
-      "mot": "TIPAR",
+      "mot": "tipar",
       "definition": "Verlan de « parti ». C’est tipar."
     },
     "cool":
     {
-      "mot": "SWAG",
+      "mot": "swag",
       "definition": "Avoir le swag ou être swag signifie être cool"
     },
     "se débarrasser":
     {
-      "mot": "BAZARDER",
+      "mot": "bazarder",
       "definition": "Se débarrasser de quelque chose"
     },
     "se débarrasses":
     {
-      "mot": "BAZARDES",
+      "mot": "bazardes",
       "definition": "Se débarrasser de quelque chose"
     },
-    "se débarrassent":
-    {
-      "mot": "BAZARDENT",
+    "se débarrassent": {
+      "mot": "bazardent",
       "definition": "Se débarrasser de quelque chose"
     },
-    "se débarrasse":
-    {
-      "mot": "BAZARDE",
+    "se débarrasse": {
+      "mot": "bazarde",
       "definition": "Se débarrasser de quelque chose"
     },
-    "attention":
-    {
-      "mot": "BELEK",
-      "definition": "Belek vient de l'arabe : attention, il s'agit le plus souvent d'un conseil amical pour prévenir quelqu'un d'un danger potentiel."
+    "attention": {
+      "mot": "belek",
+      "definition": "belek vient de l'arabe : attention, il s'agit le plus souvent d'un conseil amical pour prévenir quelqu'un d'un danger potentiel."
     },
-    "meilleure amie":
-    {
-      "mot": "BESTAH",
+    "meilleure amie": {
+      "mot": "bestah",
       "definition": "meilleure amie (de l’anglais 'best')"
     },
-    "beau gosse":
-    {
-      "mot": "BG",
+    "beau gosse": {
+      "mot": "bg",
       "definition": "acronyme de « beau gosse »"
     },
-    "argent":
-    {
-      "mot": "BIF",
-      "definition": "'Avoir du bif', c'est avoir de l'argent. On reconnait le mot 'bifton' qui a été raccourci. En argot, cela veut dire 'billet de banque'"
+    "argent": {
+      "mot": "bif",
+      "definition": "'avoir du bif', c'est avoir de l'argent. on reconnait le mot 'bifton' qui a été raccourci. en argot, cela veut dire 'billet de banque'"
     },
-    "difficile":
-    {
-      "mot": "CHAUD",
-      "definition": "Signifie incroyable / difficile"
+    "difficile": {
+      "mot": "chaud",
+      "definition": "signifie incroyable / difficile"
     },
-    "coup de coeur":
-    {
-      "mot": "CRUSH",
-      "definition": "Signifie un coup de coeur"
+    "coup de coeur": {
+      "mot": "crush",
+      "definition": "signifie un coup de coeur"
     },
-    "trop bien":
-    {
-      "mot": "DAR",
-      "definition": "Signifie trop bien"
+    "trop bien": {
+      "mot": "dar",
+      "definition": "signifie trop bien"
     },
-    "discrètement":
-    {
-      "mot": "EN SOUMSOUM",
-      "definition": "En soum soum est l'abréviation de 'en sous-marin'. Il est utilisé dans le sens 'secrètement', 'en toute discrétion', 'en douce'"
+    "discrètement": {
+      "mot": "en soumsoum",
+      "definition": "en soum soum est l'abréviation de 'en sous-marin'. il est utilisé dans le sens 'secrètement', 'en toute discrétion', 'en douce'"
     },
-    "discrète":
-    {
-      "mot": "SKRED",
-      "definition": "Signifie discret (vient de skrédi en verlan) ; « en skred » : discrètement"
+    "discrète": {
+      "mot": "skred",
+      "definition": "signifie discret (vient de skrédi en verlan) ; « en skred » : discrètement"
     },
-    "discret":
-    {
-      "mot": "SKRED",
-      "definition": "Signifie discret (vient de skrédi en verlan) ; « en skred » : discrètement"
+    "discret": {
+      "mot": "skred",
+      "definition": "signifie discret (vient de skrédi en verlan) ; « en skred » : discrètement"
     },
-    "secrètement":
-    {
-      "mot": "EN SOUMSOUM",
-      "definition": "En soum soum est l'abréviation de 'en sous-marin'. Il est utilisé dans le sens 'secrètement', 'en toute discrétion', 'en douce'"
+    "secrètement": {
+      "mot": "en soumsoum",
+      "definition": "en soum soum est l'abréviation de 'en sous-marin'. il est utilisé dans le sens 'secrètement', 'en toute discrétion', 'en douce'"
     },
-    "en douce":
-    {
-      "mot": "EN SOUMSOUM",
-      "definition": "En soum soum est l'abréviation de 'en sous-marin'. Il est utilisé dans le sens 'secrètement', 'en toute discrétion', 'en douce'"
+    "en douce": {
+      "mot": "en soumsoum",
+      "definition": "en soum soum est l'abréviation de 'en sous-marin'. il est utilisé dans le sens 'secrètement', 'en toute discrétion', 'en douce'"
     },
-    "overbookées":
-    {
-      "mot": "CHARETTE",
-      "definition": "Signifie être overbooké / le temps me manque"
+    "overbookées": {
+      "mot": "charette",
+      "definition": "signifie être overbooké / le temps me manque"
     },
-    "overbookés":
-    {
-      "mot": "CHARETTE",
-      "definition": "Signifie être overbooké / le temps me manque"
+    "overbookés": {
+      "mot": "charette",
+      "definition": "signifie être overbooké / le temps me manque"
     },
-    "overbookée":
-    {
-      "mot": "CHARETTE",
-      "definition": "Signifie être overbooké / le temps me manque"
+    "overbookée": {
+      "mot": "charette",
+      "definition": "signifie être overbooké / le temps me manque"
     },
-    "overbooké":
-    {
-      "mot": "CHARETTE",
-      "definition": "Signifie être overbooké / le temps me manque"
+    "overbooké": {
+      "mot": "charette",
+      "definition": "signifie être overbooké / le temps me manque"
     },
-    "partant":
-    {
-      "mot": "CHAUD",
-      "definition": "Signifie être partant"
+    "partant": {
+      "mot": "chaud",
+      "definition": "signifie être partant"
     },
-    "une mauvaise blague":
-    {
-      "mot": "UN PRANK",
-      "definition": "Signifie faire une mauvaise blague à quelqu’un"
+    "une mauvaise blague": {
+      "mot": "un prank",
+      "definition": "signifie faire une mauvaise blague à quelqu’un"
     },
-    "influencées":
-    {
-      "mot": "AMBIANCÉES",
-      "definition": "Désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
+    "influencées": {
+      "mot": "ambiancées",
+      "definition": "désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
     },
-    "influencés":
-    {
-      "mot": "AMBIANCÉS",
-      "definition": "Désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
+    "influencés": {
+      "mot": "ambiancés",
+      "definition": "désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
     },
-    "influencée":
-    {
-      "mot": "AMBIANCÉE",
-      "definition": "Désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
+    "influencée": {
+      "mot": "ambiancée",
+      "definition": "désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
     },
-    "influencé":
-    {
-      "mot": "AMBIANCÉ",
-      "definition": "Désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
+    "influencé": {
+      "mot": "ambiancé",
+      "definition": "désigne le fait d’influencer quelqu’un, de le pousser à faire quelque chose"
     },
-    "rapidement":
-    {
+    "rapidement": {
       "mot": "ASAP",
-      "definition": "Abréviation de As Soon As Possible, qui signifie aussi vite que possible"
-    },
-    "à ce qu’il paraît":
-    {
-      "mot": "ASKIP",
-      "definition": "Abréviation de « à ce qu’il paraît »"
-    },
-    "ils sont déçus":
-    {
-      "mot": "ILS ONT LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "elles sont déçues":
-    {
-      "mot": "ELLES ONT LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "il est déçu":
-    {
-      "mot": "IL A LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "elle est déçue":
-    {
-      "mot": "ELLE A LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "je suis déçue":
-    {
-      "mot": "J'AI LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "je suis déçu":
-    {
-      "mot": "J'AI LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "ils sont dégoûtés":
-    {
-      "mot": "ILS ONT LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "elles sont dégoûtées":
-    {
-      "mot": "ELLES ONT LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "il est dégoûté":
-    {
-      "mot": "IL A LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "elle est dégoûtée":
-    {
-      "mot": "ELLE A LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "je suis dégoûtée":
-    {
-      "mot": "J'AI LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "je suis dégoûté":
-    {
-      "mot": "J'AI LE SEUM",
-      "definition": "Être dégoûté par un événement, une situation, une chose"
-    },
-    "mauvais":
-    {
-      "mot": "BAD",
-      "definition": "Anglicisme qui désigne quelque chose de mauvais, de difficile"
-    },
-    "la pagaille":
-    {
-      "mot": "BAGDAD",
-      "definition": "On dit « c’est Bagdad » pour signifier que c’est la pagaille totale"
-    },
-    "je m'en fous":
-    {
-      "mot": "JE M'EN BALEK",
-      "definition": "Abréviation de « je m’en bats les couilles… »"
-    },
-    "tu t'en fous":
-    {
-      "mot": "TU T'EN BALEK",
-      "definition": "Abréviation de « je m’en bats les couilles… »"
-    },
-    "il s'en fout":
-    {
-      "mot": "IL S'EN BALEK",
-      "definition": "Abréviation de « je m’en bats les couilles… »"
-    },
-    "elle s'en fout":
-    {
-      "mot": "ELLE S'EN BALEK",
-      "definition": "Abréviation de « je m’en bats les couilles… »"
-    },
-    "fous rire":
-    {
-      "mot": "BARRES",
-      "definition": "Se taper des barres signifie piquer des fous rires"
-    },
-    "un fou rire":
-    {
-      "mot": "UNE BARRE",
-      "definition": "Se taper des barres signifie piquer des fous rires"
-    },
-    "joint":
-    {
-      "mot": "BÉDO",
-      "definition": "Mot qui désigne un joint"
-    },
-    "nom":
-    {
-      "mot": "BLAZE",
-      "definition": "Désigne le surnom qu’un tagueur s’est donné pour signer ses œuvres"
-    },
-    "problèmes":
-    {
-      "mot": "BLÈMES",
-      "definition": "Abréviation de problème"
-    },
-    "problème":
-    {
-      "mot": "BLÈME",
-      "definition": "Abréviation de problème"
-    },
-    "ringards":
-    {
-      "mot": "BOLOSS",
-      "definition": "Désigne un gars peu intéressant, ringard, faible et trouillard"
-    },
-    "ringard":
-    {
-      "mot": "BOLOSS",
-      "definition": "Désigne un gars peu intéressant, ringard, faible et trouillard"
-    },
-    "idiots":
-    {
-      "mot": "BOLOSS",
-      "definition": "Désigne un gars peu intéressant, ringard, faible et trouillard"
-    },
-    "idiot":
-    {
-      "mot": "BOLOSS",
-      "definition": "Désigne un gars peu intéressant, ringard, faible et trouillard"
-    },
-    "c'est impossible":
-    {
-      "mot": "C’EST DEAD",
-      "definition": "Expression qui signifie « c’est impossible »"
-    },
-    "c'est la misère":
-    {
-      "mot": "C’EST LA HASS",
-      "definition": "Expression qui signifie « c’est la misère »"
-    },
-    "drogue":
-    {
-      "mot": "CAME",
-      "definition": "Désigne la drogue et tout ce qui peut être illégal, marchandises volées, etc"
-    },
-    "c'est bien fait":
-    {
-      "mot": "CHEH",
-      "definition": "Interjection arabe qui signifie « bien fait pour ta gueule »"
-    },
-    "étranges":
-    {
-      "mot": "CHELOU",
-      "definition": "Désigne une chose, une personne, une situation, très étrange"
-    },
-    "étrange":
-    {
-      "mot": "CHELOU",
-      "definition": "Désigne une chose, une personne, une situation, très étrange"
-    },
-    "moches":
-    {
-      "mot": "CHEUM",
-      "definition": "Verlan de moche, pour désigner une personne avec un physique ingrat"
-    },
-    "moche":
-    {
-      "mot": "CHEUM",
-      "definition": "Verlan de moche, pour désigner une personne avec un physique ingrat"
-    },
-    "glander":
-    {
-      "mot": "CHILLER",
-      "definition": "Anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
-    },
-    "glandes":
-    {
-      "mot": "CHILL",
-      "definition": "Anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
-    },
-    "glande":
-    {
-      "mot": "CHILL",
-      "definition": "Anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
-    },
-    "se détendre":
-    {
-      "mot": "CHILLER",
-      "definition": "Anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
-    },
-    "manger":
-    {
-      "mot": "DAMER",
-      "definition": "Terme qui signifie manger"
-    },
-    "manges":
-    {
-      "mot": "DAMES",
-      "definition": "Terme qui signifie manger"
-    },
-    "mange":
-    {
-      "mot": "DAME",
-      "definition": "Terme qui signifie manger"
-    },
-    "c'est facile":
-    {
-      "mot": "CA PASSE CREME",
-      "definition": "Signifie ça passe tout seul, c’est facile"
-    },
-    "des traîtres":
-    {
-      "mot": "DES POUCAVES",
-      "definition": "Désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
-    },
-    "un traître":
-    {
-      "mot": "UNE POUCAVE",
-      "definition": "Désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
-    },
-    "des traîtresses":
-    {
-      "mot": "DES POUCAVES",
-      "definition": "Désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
-    },
-    "une traîtresse":
-    {
-      "mot": "UNE POUCAVE",
-      "definition": "Désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
-    },
-    "des mouchards":
-    {
-      "mot": "DES POUCAVES",
-      "definition": "Désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
-    },
-    "un mouchard":
-    {
-      "mot": "UNE POUCAVE",
-      "definition": "Désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
-    },
-    "facile":
-    {
-      "mot": "EASY",
-      "definition": "Anglicisme qui désigne quelque chose de facile"
-    },
-    "mentir":
-    {
-      "mot": "EMBOUCANER",
-      "definition": "Désigne le fait de mentir afin d’embrouiller quelqu’un"
-    },
-    "menti":
-    {
-      "mot": "EMBOUCANÉ",
-      "definition": "Désigne le fait de mentir afin d’embrouiller quelqu’un"
-    },
-    "s'amuser":
-    {
-      "mot": "S'ENJAILLER",
-      "definition": "Verbe venant de l’anglais 'enjoy' qui signifie s’amuser."
-    },
-    "s'amusent":
-    {
-      "mot": "S'ENJAILLENT",
-      "definition": "Verbe venant de l’anglais 'enjoy' qui signifie s’amuser."
-    },
-    "s'amuse":
-    {
-      "mot": "S'ENJAILLE",
-      "definition": "Verbe venant de l’anglais 'enjoy' qui signifie s’amuser."
-    },
-    "sont installées":
-    {
-      "mot": "SONT CALÉES",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "sont installés":
-    {
-      "mot": "SONT CALÉS",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "est installée":
-    {
-      "mot": "EST CALÉE",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "est installé":
-    {
-      "mot": "EST CALÉ",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "es installée":
-    {
-      "mot": "EST CALÉE",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "es installé":
-    {
-      "mot": "EST CALÉ",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "je suis installée":
-    {
-      "mot": "SUIS CALÉE",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "je suis installé":
-    {
-      "mot": "SUIS CALÉ",
-      "definition": "Être bien là où l’on se trouve, être bien installé"
-    },
-    "énervées":
-    {
-      "mot": "YOMB",
-      "definition": "Être énervé"
-    },
-    "énervée":
-    {
-      "mot": "YOMB",
-      "definition": "Être énervé"
-    },
-    "énervés":
-    {
-      "mot": "YOMB",
-      "definition": "Être énervé"
-    },
-    "énervé":
-    {
-      "mot": "YOMB",
-      "definition": "Être énervé"
-    },
-    "alcoolisées":
-    {
-      "mot": "FAYA",
-      "definition": "Se dit lorsque l’on est trop alcoolisé ou drogué"
-    },
-    "alcoolisés":
-    {
-      "mot": "FAYA",
-      "definition": "Se dit lorsque l’on est trop alcoolisé ou drogué"
-    },
-    "alcoolisée":
-    {
-      "mot": "FAYA",
-      "definition": "Se dit lorsque l’on est trop alcoolisé ou drogué"
-    },
-    "alcoolisé":
-    {
-      "mot": "FAYA",
-      "definition": "Se dit lorsque l’on est trop alcoolisé ou drogué"
-    },
-    "défoncées":
-    {
-      "mot": "FONSDÉES",
-      "definition": "Désigne le fait d’être défoncé, après avoir notamment fumé un joint"
-    },
-    "défoncés":
-    {
-      "mot": "FONSDÉS",
-      "definition": "Désigne le fait d’être défoncé, après avoir notamment fumé un joint"
-    },
-    "défoncée":
-    {
-      "mot": "FONSDÉE",
-      "definition": "Désigne le fait d’être défoncé, après avoir notamment fumé un joint"
-    },
-    "défoncé":
-    {
-      "mot": "FONSDÉ",
-      "definition": "Désigne le fait d’être défoncé, après avoir notamment fumé un joint"
-    },
-    "ivre":
-    {
-      "mot": "FRACASSÉ",
-      "definition": "Désigne le fait d’être en état d’ébriété ou sous l’emprise de drogue"
-    },
-    "jeu":
-    {
-        "mot": "GAME",
-        "definition": "Anglicisme qui signifie « jeu ». Très utilisé dans l’univers des jeux vidéo"
-    },
-    "cannabis":
-    {
-        "mot": "GANJA",
-        "definition": "Terme qui désigne le cannabis"
-    },
-    "internautes":
-    {
-        "mot": "GEEK",
-        "definition": "Jeune qui passe l’essentiel de son temps en ligne sur le Web"
-    },
-    "internaute":
-    {
-        "mot": "GEEK",
-        "definition": "Jeune qui passe l’essentiel de son temps en ligne sur le Web"
-    },
-    "quartier malfamé":
-    {
-        "mot": "GHETTO",
-        "definition": "Désigne un quartier ou un espace malfamé, interdit à ceux qui n’en sont pas"
-    },
-    "quartier":
-    {
-        "mot": "TIÉQUAR",
-        "definition": "Verlan de quartier"
-    },
-    "ma copine":
-    {
-        "mot": "GO",
-        "definition": "Terme issu du langage africain et qui désigne une fille"
-    },
-    "câlins":
-    {
-        "mot": "HUGS",
-        "definition": "Terme anglophone qui signifie câlins"
-    },
-    "câlin":
-    {
-        "mot": "HUG",
-        "definition": "Terme anglophone qui signifie câlins"
-    },
-    "il s'ennuie":
-    {
-        "mot": "IL SE FAIT IECH",
-        "definition": "Verlan de chier, l’on dit « se faire iech = se faire chier »"
-    },
-    "elle s'ennuie":
-    {
-        "mot": "ELLE SE FAIT IECH",
-        "definition": "Verlan de chier, l’on dit « se faire iech = se faire chier »"
-    },
-    "tu t'ennuies":
-    {
-        "mot": "TU TE FAIS IECH",
-        "definition": "Verlan de chier, l’on dit « se faire iech = se faire chier »"
-    },
-    "je m'ennuie":
-    {
-        "mot": "JE ME FAIS IECH",
-        "definition": "Verlan de chier, l’on dit « se faire iech = se faire chier »"
-    },
-    "parler":
-    {
-        "mot": "JACTER",
-        "definition": "Signifie parler sans cesse"
-    },
-    "parlent":
-    {
-        "mot": "JACTENT",
-        "definition": "Signifie parler sans cesse"
-    },
-    "parles":
-    {
-        "mot": "JACTES",
-        "definition": "Signifie parler sans cesse"
-    },
-    "parle":
-    {
-        "mot": "JACTE",
-        "definition": "Signifie parler sans cesse"
-    },
-    "addict":
-    {
-        "mot": "JUNKIE",
-        "definition": "Une personne addict aux drogues"
-    },
-    "racailles":
-    {
-        "mot": "KAIRA",
-        "definition": "Désigne une racaille, un voyou"
-    },
-    "racaille":
-    {
-        "mot": "KAIRA",
-        "definition": "Désigne une racaille, un voyou"
-    },
-    "bloquées":
-    {
-        "mot": "KEBLO",
-        "definition": "Verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
-    },
-    "bloqués":
-    {
-        "mot": "KEBLO",
-        "definition": "Verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
-    },
-    "bloquée":
-    {
-        "mot": "KEBLO",
-        "definition": "Verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
-    },
-    "bloqué":
-    {
-        "mot": "KEBLO",
-        "definition": "Verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
-    },
-    "policiers":
-    {
-        "mot": "KEUF",
-        "definition": "Désigne un représentant de l’ordre"
-    },
-    "policier":
-    {
-        "mot": "KEUF",
-        "definition": "Désigne un représentant de l’ordre"
-    },
-    "mecs":
-    {
-        "mot": "KEUMS",
-        "definition": "Terme issu de « mec », qui signifie frère, petit ami etc"
-    },
-    "mec":
-    {
-        "mot": "KEUM",
-        "definition": "Terme issu de « mec », qui signifie frère, petit ami etc"
-    },
-    "apprécies":
-    {
-        "mot": "KIFFES",
-        "definition": "Désigne quelque chose que l’on apprécie"
-    },
-    "apprécie":
-    {
-        "mot": "KIFFE",
-        "definition": "Désigne quelque chose que l’on apprécie"
-    },
-    "apprécié":
-    {
-        "mot": "KIFFÉ",
-        "definition": "Désigne quelque chose que l’on apprécie"
-    },
-    "aimes":
-    {
-        "mot": "KIFFES",
-        "definition": "Désigne quelque chose que l’on apprécie"
-    },
-    "aime":
-    {
-        "mot": "KIFFE",
-        "definition": "Désigne quelque chose que l’on apprécie"
-    },
-    "aimé":
-    {
-        "mot": "KIFFÉ",
-        "definition": "Désigne quelque chose que l’on apprécie"
-    },
-    "la brigade":
-    {
-        "mot": "LABAC",
-        "definition": "Abréviation de la bac, brigade anticriminelle"
-    },
-    "famille":
-    {
-        "mot": "FAF",
-        "definition": "Désigne la famille, le clan"
-    },
-    "une situation difficile":
-    {
-        "mot": "LA HASS",
-        "definition": "Désigne une situation plutôt désagréable et compliquée"
-    },
-    "perdant":
-    {
-        "mot": "UN LOOSER",
-        "definition": "Personne nulle, à qui rien ne réussit et qui ne réussit rien"
+      "definition": "abréviation de as soon as possible, qui signifie aussi vite que possible"
+    },
+    "à ce qu’il paraît": {
+      "mot": "askip",
+      "definition": "abréviation de « à ce qu’il paraît »"
+    },
+    "ils sont déçus": {
+      "mot": "ils ont le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "elles sont déçues": {
+      "mot": "elles ont le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "il est déçu": {
+      "mot": "il a le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "elle est déçue": {
+      "mot": "elle a le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "je suis déçue": {
+      "mot": "j'ai le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "je suis déçu": {
+      "mot": "j'ai le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "ils sont dégoûtés": {
+      "mot": "ils ont le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "elles sont dégoûtées": {
+      "mot": "elles ont le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "il est dégoûté": {
+      "mot": "il a le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "elle est dégoûtée": {
+      "mot": "elle a le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "je suis dégoûtée": {
+      "mot": "j'ai le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "je suis dégoûté": {
+      "mot": "j'ai le seum",
+      "definition": "être dégoûté par un événement, une situation, une chose"
+    },
+    "mauvais": {
+      "mot": "bad",
+      "definition": "anglicisme qui désigne quelque chose de mauvais, de difficile"
+    },
+    "la pagaille": {
+      "mot": "Bagdad",
+      "definition": "on dit « c’est bagdad » pour signifier que c’est la pagaille totale"
+    },
+    "je m'en fous": {
+      "mot": "je m'en balek",
+      "definition": "abréviation de « je m’en bats les couilles… »"
+    },
+    "tu t'en fous": {
+      "mot": "tu t'en balek",
+      "definition": "abréviation de « je m’en bats les couilles… »"
+    },
+    "il s'en fout": {
+      "mot": "il s'en balek",
+      "definition": "abréviation de « je m’en bats les couilles… »"
+    },
+    "elle s'en fout": {
+      "mot": "elle s'en balek",
+      "definition": "abréviation de « je m’en bats les couilles… »"
+    },
+    "fous rire": {
+      "mot": "barres",
+      "definition": "se taper des barres signifie piquer des fous rires"
+    },
+    "un fou rire": {
+      "mot": "une barre",
+      "definition": "se taper des barres signifie piquer des fous rires"
+    },
+    "joint": {
+      "mot": "bédo",
+      "definition": "mot qui désigne un joint"
+    },
+    "nom": {
+      "mot": "blaze",
+      "definition": "désigne le surnom qu’un tagueur s’est donné pour signer ses œuvres"
+    },
+    "problèmes": {
+      "mot": "blèmes",
+      "definition": "abréviation de problème"
+    },
+    "problème": {
+      "mot": "blème",
+      "definition": "abréviation de problème"
+    },
+    "ringards": {
+      "mot": "boloss",
+      "definition": "désigne un gars peu intéressant, ringard, faible et trouillard"
+    },
+    "ringard": {
+      "mot": "boloss",
+      "definition": "désigne un gars peu intéressant, ringard, faible et trouillard"
+    },
+    "idiots": {
+      "mot": "boloss",
+      "definition": "désigne un gars peu intéressant, ringard, faible et trouillard"
+    },
+    "idiot": {
+      "mot": "boloss",
+      "definition": "désigne un gars peu intéressant, ringard, faible et trouillard"
+    },
+    "c'est impossible": {
+      "mot": "c’est dead",
+      "definition": "expression qui signifie « c’est impossible »"
+    },
+    "c'est la misère": {
+      "mot": "c’est la hass",
+      "definition": "expression qui signifie « c’est la misère »"
+    },
+    "drogue": {
+      "mot": "came",
+      "definition": "désigne la drogue et tout ce qui peut être illégal, marchandises volées, etc"
+    },
+    "c'est bien fait": {
+      "mot": "cheh",
+      "definition": "interjection arabe qui signifie « bien fait pour ta gueule »"
+    },
+    "étranges": {
+      "mot": "chelou",
+      "definition": "désigne une chose, une personne, une situation, très étrange"
+    },
+    "étrange": {
+      "mot": "chelou",
+      "definition": "désigne une chose, une personne, une situation, très étrange"
+    },
+    "moches": {
+      "mot": "cheum",
+      "definition": "verlan de moche, pour désigner une personne avec un physique ingrat"
+    },
+    "moche": {
+      "mot": "cheum",
+      "definition": "verlan de moche, pour désigner une personne avec un physique ingrat"
+    },
+    "glander": {
+      "mot": "chiller",
+      "definition": "anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
+    },
+    "glandes": {
+      "mot": "chill",
+      "definition": "anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
+    },
+    "glande": {
+      "mot": "chill",
+      "definition": "anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
+    },
+    "se détendre": {
+      "mot": "chiller",
+      "definition": "anglicisme pour « se détendre, s’amuser », qui signifie profiter de la vie, glander, ne rien faire de spécial"
+    },
+    "manger": {
+      "mot": "damer",
+      "definition": "terme qui signifie manger"
+    },
+    "manges": {
+      "mot": "dames",
+      "definition": "terme qui signifie manger"
+    },
+    "mange": {
+      "mot": "dame",
+      "definition": "terme qui signifie manger"
+    },
+    "c'est facile": {
+      "mot": "ça passe crème",
+      "definition": "signifie ça passe tout seul, c’est facile"
+    },
+    "des traîtres": {
+      "mot": "des poucaves",
+      "definition": "désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
+    },
+    "un traître": {
+      "mot": "une poucave",
+      "definition": "désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
+    },
+    "des traîtresses": {
+      "mot": "des poucaves",
+      "definition": "désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
+    },
+    "une traîtresse": {
+      "mot": "une poucave",
+      "definition": "désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
+    },
+    "des mouchards": {
+      "mot": "des poucaves",
+      "definition": "désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
+    },
+    "un mouchard": {
+      "mot": "une poucave",
+      "definition": "désigne un traître, une traîtresse (qui n’a pas tenu parole), une balance ou encore un mouchard"
+    },
+    "facile": {
+      "mot": "easy",
+      "definition": "anglicisme qui désigne quelque chose de facile"
+    },
+    "mentir": {
+      "mot": "emboucaner",
+      "definition": "désigne le fait de mentir afin d’embrouiller quelqu’un"
+    },
+    "menti": {
+      "mot": "emboucané",
+      "definition": "désigne le fait de mentir afin d’embrouiller quelqu’un"
+    },
+    "s'amuser": {
+      "mot": "s'enjailler",
+      "definition": "verbe venant de l’anglais 'enjoy' qui signifie s’amuser."
+    },
+    "s'amusent": {
+      "mot": "s'enjaillent",
+      "definition": "verbe venant de l’anglais 'enjoy' qui signifie s’amuser."
+    },
+    "s'amuse": {
+      "mot": "s'enjaille",
+      "definition": "verbe venant de l’anglais 'enjoy' qui signifie s’amuser."
+    },
+    "sont installées": {
+      "mot": "sont calées",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "sont installés": {
+      "mot": "sont calés",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "est installée": {
+      "mot": "est calée",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "est installé": {
+      "mot": "est calé",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "es installée": {
+      "mot": "est calée",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "es installé": {
+      "mot": "est calé",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "je suis installée": {
+      "mot": "suis calée",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "je suis installé": {
+      "mot": "suis calé",
+      "definition": "être bien là où l’on se trouve, être bien installé"
+    },
+    "énervées": {
+      "mot": "yomb",
+      "definition": "être énervé"
+    },
+    "énervée": {
+      "mot": "yomb",
+      "definition": "être énervé"
+    },
+    "énervés": {
+      "mot": "yomb",
+      "definition": "être énervé"
+    },
+    "énervé": {
+      "mot": "yomb",
+      "definition": "être énervé"
+    },
+    "alcoolisées": {
+      "mot": "faya",
+      "definition": "se dit lorsque l’on est trop alcoolisé ou drogué"
+    },
+    "alcoolisés": {
+      "mot": "faya",
+      "definition": "se dit lorsque l’on est trop alcoolisé ou drogué"
+    },
+    "alcoolisée": {
+      "mot": "faya",
+      "definition": "se dit lorsque l’on est trop alcoolisé ou drogué"
+    },
+    "alcoolisé": {
+      "mot": "faya",
+      "definition": "se dit lorsque l’on est trop alcoolisé ou drogué"
+    },
+    "défoncées": {
+      "mot": "fonsdées",
+      "definition": "désigne le fait d’être défoncé, après avoir notamment fumé un joint"
+    },
+    "défoncés": {
+      "mot": "fonsdés",
+      "definition": "désigne le fait d’être défoncé, après avoir notamment fumé un joint"
+    },
+    "défoncée": {
+      "mot": "fonsdée",
+      "definition": "désigne le fait d’être défoncé, après avoir notamment fumé un joint"
+    },
+    "défoncé": {
+      "mot": "fonsdé",
+      "definition": "désigne le fait d’être défoncé, après avoir notamment fumé un joint"
+    },
+    "ivre": {
+      "mot": "fracassé",
+      "definition": "désigne le fait d’être en état d’ébriété ou sous l’emprise de drogue"
+    },
+    "jeu": {
+      "mot": "game",
+      "definition": "anglicisme qui signifie « jeu ». très utilisé dans l’univers des jeux vidéo"
+    },
+    "cannabis": {
+      "mot": "ganja",
+      "definition": "terme qui désigne le cannabis"
+    },
+    "internautes": {
+      "mot": "geek",
+      "definition": "jeune qui passe l’essentiel de son temps en ligne sur le web"
+    },
+    "internaute": {
+      "mot": "geek",
+      "definition": "jeune qui passe l’essentiel de son temps en ligne sur le web"
+    },
+    "quartier malfamé": {
+      "mot": "ghetto",
+      "definition": "désigne un quartier ou un espace malfamé, interdit à ceux qui n’en sont pas"
+    },
+    "quartier": {
+      "mot": "tiéquar",
+      "definition": "verlan de quartier"
+    },
+    "ma copine": {
+      "mot": "go",
+      "definition": "terme issu du langage africain et qui désigne une fille"
+    },
+    "câlins": {
+      "mot": "hugs",
+      "definition": "terme anglophone qui signifie câlins"
+    },
+    "câlin": {
+      "mot": "hug",
+      "definition": "terme anglophone qui signifie câlins"
+    },
+    "il s'ennuie": {
+      "mot": "il se fait iech",
+      "definition": "verlan de chier, l’on dit « se faire iech = se faire chier »"
+    },
+    "elle s'ennuie": {
+      "mot": "elle se fait iech",
+      "definition": "verlan de chier, l’on dit « se faire iech = se faire chier »"
+    },
+    "tu t'ennuies": {
+      "mot": "tu te fais iech",
+      "definition": "verlan de chier, l’on dit « se faire iech = se faire chier »"
+    },
+    "je m'ennuie": {
+      "mot": "je me fais iech",
+      "definition": "verlan de chier, l’on dit « se faire iech = se faire chier »"
+    },
+    "parler": {
+      "mot": "jacter",
+      "definition": "signifie parler sans cesse"
+    },
+    "parlent": {
+      "mot": "jactent",
+      "definition": "signifie parler sans cesse"
+    },
+    "parles": {
+      "mot": "jactes",
+      "definition": "signifie parler sans cesse"
+    },
+    "parle": {
+      "mot": "jacte",
+      "definition": "signifie parler sans cesse"
+    },
+    "addict": {
+      "mot": "junkie",
+      "definition": "une personne addict aux drogues"
+    },
+    "racailles": {
+      "mot": "kaïra",
+      "definition": "désigne une racaille, un voyou"
+    },
+    "racaille": {
+      "mot": "kaïra",
+      "definition": "désigne une racaille, un voyou"
+    },
+    "bloquées": {
+      "mot": "kéblo",
+      "definition": "verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
+    },
+    "bloqués": {
+      "mot": "kéblo",
+      "definition": "verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
+    },
+    "bloquée": {
+      "mot": "kéblo",
+      "definition": "verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
+    },
+    "bloqué": {
+      "mot": "kéblo",
+      "definition": "verlan de « bloqué » qui signifie être à l’arrêt devant une personne, une situation"
+    },
+    "policiers": {
+      "mot": "keuf",
+      "definition": "désigne un représentant de l’ordre"
+    },
+    "policier": {
+      "mot": "keuf",
+      "definition": "désigne un représentant de l’ordre"
+    },
+    "mecs": {
+      "mot": "keums",
+      "definition": "terme issu de « mec », qui signifie frère, petit ami etc"
+    },
+    "mec": {
+      "mot": "keum",
+      "definition": "terme issu de « mec », qui signifie frère, petit ami etc"
+    },
+    "apprécies": {
+      "mot": "kiffes",
+      "definition": "désigne quelque chose que l’on apprécie"
+    },
+    "apprécie": {
+      "mot": "kiffe",
+      "definition": "désigne quelque chose que l’on apprécie"
+    },
+    "apprécié": {
+      "mot": "kiffé",
+      "definition": "désigne quelque chose que l’on apprécie"
+    },
+    "aimes": {
+      "mot": "kiffes",
+      "definition": "désigne quelque chose que l’on apprécie"
+    },
+    "aime": {
+      "mot": "kiffe",
+      "definition": "désigne quelque chose que l’on apprécie"
+    },
+    "aimé": {
+      "mot": "kiffé",
+      "definition": "désigne quelque chose que l’on apprécie"
+    },
+    "la brigade": {
+      "mot": "labac",
+      "definition": "abréviation de la bac, brigade anticriminelle"
+    },
+    "famille": {
+      "mot": "faf",
+      "definition": "désigne la famille, le clan"
+    },
+    "une situation difficile": {
+      "mot": "la hass",
+      "definition": "désigne une situation plutôt désagréable et compliquée"
+    },
+    "perdant": {
+      "mot": "un looser",
+      "definition": "personne nulle, à qui rien ne réussit et qui ne réussit rien"
     }
-}
-      
-  
+  }
