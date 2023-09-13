@@ -14,10 +14,6 @@
             "js": [
                 "scripts/content.js"
             ],
-            "css":[
-                "scripts/content.css"
-
-            ],
             "matches": [
                 "https://*/*",
                 "http://*/*",
@@ -42,7 +38,11 @@
         }
     },
     "background": {
-        "service_worker": "scripts/background.js"
+        "service_worker": "scripts/background.js",
+        "css":[
+            "/scripts/content.css"
+
+        ]
     },
     "web_accessible_resources": [
         {

@@ -56,6 +56,7 @@ chrome.runtime.onInstalled.addListener(() => {
   chrome.action.setBadgeText({
     text: "OFF",
   });
+ 
 });
 
 chrome.action.onClicked.addListener(async (tab) => {
@@ -79,8 +80,8 @@ chrome.action.onClicked.addListener(async (tab) => {
       function: await getJson,
     });
     await chrome.scripting.insertCSS({
-      files: ["http://127.0.0.1:5500/scripts/content.css"],
       target: { tabId: tab.id },
+      files: ["scripts/content.css"],
     });
   } else if (nextState === "OFF") {
     await chrome.scripting.executeScript({
@@ -92,8 +93,8 @@ chrome.action.onClicked.addListener(async (tab) => {
       function: resetContent,
     });
     await chrome.scripting.removeCSS({
-      files: ["http://127.0.0.1:5500/scripts/content.css"],
       target: { tabId: tab.id },
+      files: ["scripts/content.css"],
     });
   }
 });

@@ -10,22 +10,26 @@
 
 
 @font-face {
-    font-family: "aaaiight-fat";
-    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/aaaiight-fat.ttf") format("truetype");
+    font-family: "Streetbomber";
+    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Streetbomber.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "amsterdam";
-    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/amsterdam.ttf") format("truetype");
+    font-family: "Graffogie";
+    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Graffogie.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
+h1,h2,h4,h5,h6 {
+font-family: "Streetbomber";
+}
+
 span.popup {
     color: red;
-    font-family: "amsterdam";
+    font-family: "Streetbomber";
     font-size: 1.8em;
 }
 
