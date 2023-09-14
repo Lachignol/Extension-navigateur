@@ -55,7 +55,7 @@ span.popup:hover {
     left: 100%;
     padding: 4px 4px 4px 8px;
     color: black;
-    white-space: nowrap;
+    white-space: wrap;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;

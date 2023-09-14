@@ -1,6 +1,6 @@
 function playAudioCode() {
   // ce code sera exécuté directement dans la page de contenu
-  const audioElement = new Audio(chrome.runtime.getURL("musics/GTA.mp3"));
+  const audioElement = new Audio(chrome.runtime.getURL("musics/GTA2.mp3"));
   audioElement.play();
   window.__audioElement = audioElement; // stocker dans une variable globale pour un accès ultérieur
 }
