@@ -1,17 +1,7 @@
-@font-face {
-    font-family: "Most Wazted";
-    font-weight: normal;
-    font-style: normal;
-    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.eot") format("eot"),
-        url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.woff") format("woff"),
-        url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.ttf") format("truetype"),
-        url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Mostwasted.svg") format("svg");
-}
-
 
 @font-face {
     font-family: "Streetbomber";
-    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Streetbomber.ttf") format("truetype");
+    src: url("http://127.0.0.1:5500/scripts/polices/Streetbomber.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -19,7 +9,7 @@
 /* remplacer par bomber dreams */
 @font-face {
     font-family: "Bomber_Dreams";
-    src: url("http://127.0.0.1:5500/scripts/a_attack_graffiti/Bomber_Dreams.ttf") format("truetype");
+    src: url("http://127.0.0.1:5500/scripts/polices/Bomber_Dreams.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
