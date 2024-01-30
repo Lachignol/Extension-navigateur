@@ -13,10 +13,11 @@ Alexandre SCORDILIS - Tenzin CHOEZIN GYASHETSANG - Oscar CORTIJOS - Ghislaine AY
 ## Aperçu du projet
 
 *AVANT : une page web*
-![App Screenshot](/screen/page_wikipedia_avant.jpg)
+![page_wikipedia_avant](https://github.com/Lachignol/Extension-navigateur/assets/110435478/64d1f617-75cf-4d7c-9346-9759027008e2)
+
 
 *APRES : une page web "traduite" en langage de "jeunes" grâce à Jouvence*
-![App Screenshot](/screen/page_wikipedia_apres.jpg)
+![page_wikipedia_avant](https://github.com/Lachignol/Extension-navigateur/assets/110435478/e4d94d22-a36d-46d0-89b9-84ed4861bb0e)
 
 ## Tech Stack
 
