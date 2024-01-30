@@ -17,7 +17,7 @@ Alexandre SCORDILIS - Tenzin CHOEZIN GYASHETSANG - Oscar CORTIJOS - Ghislaine AY
 
 
 *APRES : une page web "traduite" en langage de "jeunes" grâce à Jouvence*
-![page_wikipedia_avant](https://github.com/Lachignol/Extension-navigateur/assets/110435478/e4d94d22-a36d-46d0-89b9-84ed4861bb0e)
+![page_wikipedia_apres](https://github.com/Lachignol/Extension-navigateur/assets/110435478/8da90cbf-8941-4f27-b14a-433cf0d01470)
 
 ## Tech Stack
 
